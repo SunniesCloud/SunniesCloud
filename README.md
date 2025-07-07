@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Rowena]
+# 👋 Hello, I'm Rowena
 
 🎓 A passionate student in Web Development  
 💻 Exploring web development, and open source  
