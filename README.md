@@ -2,9 +2,9 @@
 
 🎓 A passionate student in Web Development  
 💻 Exploring web development, and open source  
-🌱 Currently learning: [Version Control and Collaboration]  
-📍 Based in [Toronto, Canada]  
-📫 How to reach me: [rowena.sasi@triosstudent.com]
+🌱 Currently learning: Version Control and Collaboration  
+📍 Based in Toronto, Canada  
+📫 How to reach me: rowena.sasi@triosstudent.com
 
 
 
